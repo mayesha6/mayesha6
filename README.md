@@ -1,3 +1,5 @@
+![logo](https://github.com/mayesha6/mayesha6/blob/main/profile.png)
+
 <h1 align="center">Hi 👋, I'm Mayesha</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
