@@ -1,7 +1,7 @@
 ![logo](https://github.com/mayesha6/mayesha6/blob/main/profile.png)
 
 <h1 align="center">Hi 👋, I'm Mayesha</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate backend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayesha6&label=Profile%20views&color=0e75b6&style=flat" alt="mayesha6" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mayesha6](https://github.com/mayesha6)
 
-- 💬 Ask me about **HTML, CSS, Javascript**
+- 💬 Ask me about **HTML, CSS, Javascript, Node JS, Express JS, Typescript**
 
 - 📫 How to reach me **soumyrhmn234@gmail.com**
 
